@@ -80,6 +80,7 @@ npm run dev
 ```
 *(The frontend runs on `http://localhost:5173`)*
 
+**Reference Images:**
 <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/292f2328-9c58-45c3-b97b-92b6ca5a30ac" />
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ab88da5f-0f07-40fe-a397-7f4a29c558a9" />
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/6ccf0d6d-f63e-4483-85d4-0535dd64bef1" />
